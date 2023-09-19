@@ -1,0 +1,7 @@
+kms = float(input ("kms?: "))
+print(kms)
+kms2 = float(input ("kms2?: "))
+# print("suma: " + kms + kms2)
+print("1)suma: " + str(kms + kms2))
+print("2)suma: %f"%(kms + kms2))
+print("3)suma: %.2f"%(kms + kms2))
